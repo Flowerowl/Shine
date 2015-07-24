@@ -1,0 +1,9 @@
+body {
+	background-color: #000;
+	margin: 0px;
+	overflow: hidden;
+}
+#stats{
+	position: absolute;
+	top: 0;
+}
